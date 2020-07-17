@@ -3,7 +3,8 @@ Repositório para estudo do módulo Automação de Testes: REST-Assured, Seleniu
 
 <h1 align="center">
     MBA em Full Stack Web Development<br />
-    Módulo: Automação de Testes: REST-Assured, Selenium Grid, Docker e Testing <br />
+    Módulo: Automação de Testes: <br />
+    REST-Assured, Selenium Grid, Docker e Testing <br />
     UNIESP Centro Universitário
     
 </h1>
